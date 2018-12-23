@@ -1,0 +1,28 @@
+{
+  "name": "booksellingapp",
+  "version": "1.0.0",
+  "description": "An app that can register the users to add and sell the books to other people",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaideshshank/BookSellingApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaideshshank/BookSellingApp/issues"
+  },
+  "homepage": "https://github.com/vaideshshank/BookSellingApp#readme",
+  "dependencies": {
+    "angular-route": "^1.7.5",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-mongo-db": "^2.0.4",
+    "mongoose": "^5.4.0",
+    "multer": "^1.4.1",
+    "validator": "^10.9.0"
+  }
+}
